@@ -1,0 +1,15 @@
+body {
+  font-family: 'Cairo', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+h1, h2, h3 {
+  font-weight: 700; /* خط عريض للعناوين */
+  color: #222;
+}
+
+p, li {
+  font-weight: 400; /* خط عادي للنصوص */
+  line-height: 1.8; /* مسافة بين السطور */
+}
